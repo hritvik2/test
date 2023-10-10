@@ -1,5 +1,6 @@
 # include<stdio.h>
 # include <string.h>
+#include <maths.h>
 int main(){
 fflush(stdin);
 int c,b;
